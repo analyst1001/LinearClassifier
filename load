@@ -1,0 +1,4 @@
+margin = 1
+cycles = 1000
+number_of_classes = 3
+number_of_features = 4
